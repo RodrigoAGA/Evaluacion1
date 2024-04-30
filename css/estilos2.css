@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav  li {
+    display: inline-block;
+
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    margin-left: 10px;
+}
+
+#titulo {
+    background-color: black;
+    color: white;
+}
+
+#imagenes {
+    background-color: red;
+    
+}
+#central {
+    width: 40%;
+    margin-left: 30%;
+
+}
+
+#izquierda {
+    width: 29%;
+
+}
+
+#derecha {
+    width: 30%;
+    margin-left: 70%;
+}
+
+#ferrari {
+    width: 100%;
+}
+
+#pie_de_pagina {
+    background-color: rgb(97, 97, 97);
+    padding-left: 30%;
+
+}
